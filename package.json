@@ -1,5 +1,5 @@
 {
-  "name": "test-vue",
+  "name": "car-vue",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -24,4 +24,5 @@
     "vite": "^6.0.11",
     "vite-plugin-vue-devtools": "^7.7.1"
   }
+  
 }
